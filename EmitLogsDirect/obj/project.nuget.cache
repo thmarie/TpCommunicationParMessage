@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XezbPQF+t90UP2DD/6muOM6eu+x095nRkYFHdNM+m+gZYfj+VimlTWRmHPek3Y0pxOvPpegJC7ETi+wL9e7ckA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THEO\\Documents\\UQAC\\Developpement\\TP4\\EmitLogsDirect\\EmitLogsDirect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THEO\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\THEO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

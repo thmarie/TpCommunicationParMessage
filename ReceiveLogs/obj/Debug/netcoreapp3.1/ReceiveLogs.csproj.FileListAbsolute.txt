@@ -1,0 +1,4 @@
+C:\Users\THEO\Documents\UQAC\Developpement\TP4\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP4\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP4\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP4\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfo.cs
